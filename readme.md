@@ -15,3 +15,8 @@ project in Python Crash Course, by Eric Matthes
     chills in the corner doing nothing, with no collision :)
     -Also, as a side-note, I am figuring out git and think I've been doing a
     good job.
+
+3/20/20
+    -Added alien motion
+    -Added finite life count
+    -Added collision between ship, bullets, and aliens
