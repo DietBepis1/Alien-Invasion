@@ -20,3 +20,8 @@ project in Python Crash Course, by Eric Matthes
     -Added alien motion
     -Added finite life count
     -Added collision between ship, bullets, and aliens
+
+3/21/20
+    -Added a play button to start the game. Also shows up after game over.
+    -Added dynamic settings where the aliens speed up as waves are cleared
+    
