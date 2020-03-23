@@ -1,5 +1,5 @@
 Just a space-invaders style game to get gud at coding.  Following along with the
-project in Python Crash Course, by Eric Matthes
+project in Python Crash Course, by Eric Matthes.
 
 3/17/20
     Started project
@@ -31,3 +31,10 @@ project in Python Crash Course, by Eric Matthes
     -Wanted to be finished with this project today but looking like it won't be
     until tomorrow because I was giving Haven some math tutoring
     
+3/23/20
+    -Finished implementing scoring and life counter
+    -This project is now feature complete from PCC.
+    -I have a few ideas I'd like to implement later or in a different game.
+    Maybe a side-scrolling collection game?
+    -This project was fun. I learned a lot about object-oriented programming and
+    it's the first project that I have ever completed! :)
