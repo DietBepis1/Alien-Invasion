@@ -22,6 +22,12 @@ project in Python Crash Course, by Eric Matthes
     -Added collision between ship, bullets, and aliens
 
 3/21/20
-    -Added a play button to start the game. Also shows up after game over.
+    -Added a play button to start the game. Also shows up after game over
     -Added dynamic settings where the aliens speed up as waves are cleared
+
+3/22/20
+    -Started to implement scoring
+    -Have a bug in scoreboard.py to fix
+    -Wanted to be finished with this project today but looking like it won't be
+    until tomorrow because I was giving Haven some math tutoring
     
